@@ -63,42 +63,6 @@
       "categoria": "Ação",
       "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png?w=440&thumb=false"
     },
-  {
-    "id": 6,
-    "titulo": "Resident Evil 4",
-    "plataformas": ["PS5"],
-    "precoAntigo": null,
-    "preco": 349.90,
-    "categoria": "Ação",
-    "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png?w=440&thumb=false"
-  },
-    {
-    "id": 7,
-    "titulo": "Resident Evil 4",
-    "plataformas": ["PS5"],
-    "precoAntigo": null,
-    "preco": 349.90,
-    "categoria": "Ação",
-    "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png?w=440&thumb=false"
-    },
-    {
-      "id": 6,
-      "titulo": "Resident Evil 4",
-      "plataformas": ["PS5"],
-      "precoAntigo": null,
-      "preco": 349.90,
-      "categoria": "Ação",
-      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png?w=440&thumb=false"
-    },
-    {
-    "id": 7,
-    "titulo": "Resident Evil 4",
-    "plataformas": ["PS5"],
-    "precoAntigo": null,
-    "preco": 349.90,
-    "categoria": "Ação",
-    "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png?w=440&thumb=false"
-    },
     {
       "id": 8,
       "titulo": "Resident Evil 4",
@@ -107,7 +71,8 @@
       "preco": 349.90,
       "categoria": "Ação",
       "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png?w=440&thumb=false"
-      }
+    }
+
   ]
 
 }
