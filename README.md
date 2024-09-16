@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
- Shopping_Game – a game store built with APIs, connected to a back-end server (running on port 4000). The store allows users to add or remove games from their cart with ease.
+ Shopping_Game – a game store built with APIs, connected to a back-end server (running on port 4000).
+ The store allows users to add or remove games from their cart with ease.
  
 ## Available Scripts
 
