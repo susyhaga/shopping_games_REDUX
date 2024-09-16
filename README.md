@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+ Shopping_Game – a game store built with APIs, connected to a back-end server (running on port 4000). The store allows users to add or remove games from their cart with ease.
+ 
 ## Available Scripts
 
 In the project directory, you can run:
